@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello! I am Anton.
 
-<!--
-**melnyk-anton/melnyk-anton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+15 y.o. Ukrainian student. Passionate about algorithmic programming and continuously work on improving my skills in this field.
 
-Here are some ideas to get you started:
+Proficient in algorithms and data structures, Python and C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Competitive Programming
+
+I love solving algorithmic puzzles in a time-constrained manner. Here are some of my [stats](https://clist.by/coder/Anton_M/):
+
+[![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi?logo=true)](https://leetcode.com/u/AntonMelnyk/)
+[![codechef](https://cp-logo.vercel.app/codechef/sky_nik?logo=true)](https://www.codechef.com/users/gramazeka22)
+[![codeforces](https://cp-logo.vercel.app/codeforces/nskybytskyi?logo=true)](https://codeforces.com/profile/Tony1506)
