@@ -1,6 +1,6 @@
 # Hello! I am Anton.
 
-15 y.o. Ukrainian student. Passionate about algorithmic programming and continuously work on improving my skills in this field.
+16 y.o. Ukrainian student. Passionate about algorithmic programming and continuously work on improving my skills in this field.
 
 Proficient in algorithms and data structures, Python and C++.
 
